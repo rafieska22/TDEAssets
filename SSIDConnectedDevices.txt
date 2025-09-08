@@ -1,0 +1,28 @@
+SSID Connected
+Name: Nocturne
+Pass: tandatanya
+
+Recent connected devices on network:
+------------------------------------
+2C:A3:F6:1F:9D:87.......disconnected
+2F:97:88:F4:5D:D6.......disconnected
+78:C1:3D:D0:7B:E2..........connected
+D8:F9:54:90:8D:3E.......disconnected
+4A:AA:96:00:85:59..........connected
+40:2B:64:EB:75:92.......disconnected
+10:A4:C9:8E:9D:98..........connected
+3E:C9:9E:1B:7C:91.......disconnected
+B0:C1:46:78:9F:3A.......disconnected
+5C:61:6B:56:2A:65..........connected
+24:07:F3:AF:9B:BF.......disconnected
+1B:F3:F2:F5:EA:C8.......disconnected
+EF:FC:DE:6B:2C:0A.......disconnected
+6E:9B:B3:6D:32:3E..........connected
+D3:AB:68:FF:45:51.......disconnected
+4B:CA:9C:F9:83:85..........connected
+61:D9:47:06:78:9B.......disconnected
+3A:52:C2:F3:6A:0B.......disconnected
+D3:F9:0E:EA:68:D9.......disconnected
+2E:DA:34:88:A3:77.......disconnected
+32:D9:B3:A5:40:C5..........connected
+F4:CF:2C:40:57:17.......disconnected
